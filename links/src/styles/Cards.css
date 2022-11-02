@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+.card{
+    width: 80vw;
+    /* background-color: black; */
+    border-radius: 30px;
+    padding:1.5rem;
+    margin:auto;
+    margin-top:1rem;
+    margin-bottom:1rem;
+    backdrop-filter: blur(20px);
+}
+
+.card a{
+    text-decoration: none;
+    font-family: 'Domine', serif;
+    font-size:130%;
+}
